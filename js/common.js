@@ -1,5 +1,5 @@
-var i = 1;
 jQuery(function ($) {
+    var i = 1;
     $('.cont_02').hide();
     $('.cont_03').hide();
     $('.cont_04').hide();
